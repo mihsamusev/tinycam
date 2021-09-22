@@ -1,9 +1,0 @@
-README.md
-setup.py
-pycamutils/__init__.py
-pycamutils/calibration.py
-pycamutils.egg-info/PKG-INFO
-pycamutils.egg-info/SOURCES.txt
-pycamutils.egg-info/dependency_links.txt
-pycamutils.egg-info/top_level.txt
-test/test_storage.py

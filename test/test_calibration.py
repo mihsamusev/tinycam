@@ -2,7 +2,7 @@ import unittest
 import os
 
 import numpy as np
-import pycamutils.calibration as clb
+import tinycam.calibration as clb
 
 def assert_cameras_equal(tc: unittest.TestCase(), cam1: clb.Camera, cam2: clb.Camera):
     tc.assertEqual(cam1.dimensions, cam2.dimensions)

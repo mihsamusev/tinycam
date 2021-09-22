@@ -2,7 +2,7 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(
-    name="pycamutils",
+    name="tinycam",
     packages=find_packages(),
     version="0.0.1",
     license="MIT",

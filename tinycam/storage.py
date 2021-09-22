@@ -3,7 +3,7 @@ import json
 from abc import ABC, abstractmethod
 
 import numpy as np
-from pycamutils.calibration import Camera, CameraLens
+from tinycam.calibration import Camera, CameraLens
 
 class CameraStorage(ABC):
     @abstractmethod

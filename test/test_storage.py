@@ -1,7 +1,7 @@
 import unittest
 
-import pycamutils.calibration as clb
-from pycamutils.storage import JsonCameraStorage
+import tinycam.calibration as clb
+from tinycam.storage import JsonCameraStorage
 import numpy as np
 
 import os

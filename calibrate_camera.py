@@ -1,8 +1,8 @@
 import argparse
 import os
 
-import pycamutils.calibration as clb
-from pycamutils.storage import JsonCameraStorage
+import tinycam.calibration as clb
+from tinycam.storage import JsonCameraStorage
 
 
 strategies = {
